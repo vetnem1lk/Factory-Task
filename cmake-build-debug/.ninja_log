@@ -1,0 +1,8 @@
+# ninja log v5
+4	364	7320092885057794	CMakeFiles/FactoryTask.dir/Transport.cpp.obj	776257b4a4c7a2d5
+1	525	7320092886656267	CMakeFiles/FactoryTask.dir/main.cpp.obj	c6521d5f32f9e53b
+525	648	7320092887863330	FactoryTask.exe	78f40cac3c45b3ff
+3	494	7320093077381909	CMakeFiles/FactoryTask.dir/main.cpp.obj	c6521d5f32f9e53b
+494	585	7320093078278429	FactoryTask.exe	78f40cac3c45b3ff
+2	478	7320094156376185	CMakeFiles/FactoryTask.dir/main.cpp.obj	c6521d5f32f9e53b
+478	571	7320094157272579	FactoryTask.exe	78f40cac3c45b3ff

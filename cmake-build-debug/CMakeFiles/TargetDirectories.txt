@@ -1,0 +1,3 @@
+C:/Users/cryzo/CLionProjects/FactoryTask/cmake-build-debug/CMakeFiles/FactoryTask.dir
+C:/Users/cryzo/CLionProjects/FactoryTask/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cryzo/CLionProjects/FactoryTask/cmake-build-debug/CMakeFiles/rebuild_cache.dir
